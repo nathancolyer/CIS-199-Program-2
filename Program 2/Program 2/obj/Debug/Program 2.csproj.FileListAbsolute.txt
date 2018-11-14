@@ -1,0 +1,18 @@
+C:\Users\natha\Documents\UofL\cis 199\Program2\Program 2\Program 2\bin\Debug\Program 2.exe.config
+C:\Users\natha\Documents\UofL\cis 199\Program2\Program 2\Program 2\obj\Debug\Program 2.csprojResolveAssemblyReference.cache
+C:\Users\natha\Documents\UofL\cis 199\Program2\Program 2\Program 2\obj\Debug\Program_2.Form1.resources
+C:\Users\natha\Documents\UofL\cis 199\Program2\Program 2\Program 2\obj\Debug\Program_2.Properties.Resources.resources
+C:\Users\natha\Documents\UofL\cis 199\Program2\Program 2\Program 2\obj\Debug\Program 2.csproj.GenerateResource.Cache
+C:\Users\natha\Documents\UofL\cis 199\Program2\Program 2\Program 2\bin\Debug\Program 2.exe
+C:\Users\natha\Documents\UofL\cis 199\Program2\Program 2\Program 2\bin\Debug\Program 2.pdb
+C:\Users\natha\Documents\UofL\cis 199\Program2\Program 2\Program 2\obj\Debug\Program 2.exe
+C:\Users\natha\Documents\UofL\cis 199\Program2\Program 2\Program 2\obj\Debug\Program 2.pdb
+C:\Users\natha\Documents\UofL\cis 199\labs\Programs\Program2\Program 2\Program 2\bin\Debug\Program 2.exe.config
+C:\Users\natha\Documents\UofL\cis 199\labs\Programs\Program2\Program 2\Program 2\obj\Debug\Program 2.exe
+C:\Users\natha\Documents\UofL\cis 199\labs\Programs\Program2\Program 2\Program 2\obj\Debug\Program 2.pdb
+C:\Users\natha\Documents\UofL\cis 199\labs\Programs\Program2\Program 2\Program 2\bin\Debug\Program 2.exe
+C:\Users\natha\Documents\UofL\cis 199\labs\Programs\Program2\Program 2\Program 2\bin\Debug\Program 2.pdb
+C:\Users\natha\Documents\UofL\cis 199\labs\Programs\Program2\Program 2\Program 2\obj\Debug\Program 2.csprojResolveAssemblyReference.cache
+C:\Users\natha\Documents\UofL\cis 199\labs\Programs\Program2\Program 2\Program 2\obj\Debug\Program_2.Form1.resources
+C:\Users\natha\Documents\UofL\cis 199\labs\Programs\Program2\Program 2\Program 2\obj\Debug\Program_2.Properties.Resources.resources
+C:\Users\natha\Documents\UofL\cis 199\labs\Programs\Program2\Program 2\Program 2\obj\Debug\Program 2.csproj.GenerateResource.Cache
